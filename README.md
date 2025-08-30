@@ -56,8 +56,4 @@ Developer: Yash Bhardwaj
 📧 Email: yashbhardwaj0115@gmail.com
 
 
-yaml
-Copy
-Edit
 
----
