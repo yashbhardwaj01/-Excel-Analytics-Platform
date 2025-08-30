@@ -49,66 +49,11 @@ Edit
 
 ---
 
-## 🧑‍💻 Getting Started
-
-### 🔁 Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/excel-analytics.git
-cd excel-analytics
-🔧 Backend Setup
-bash
-Copy
-Edit
-cd backend
-npm install
-Create a .env file in the backend/ directory:
-
-env
-Copy
-Edit
-PORT=5000
-MONGO_URI=your_mongo_connection_string
-Run backend:
-
-bash
-Copy
-Edit
-npm start
-💻 Frontend Setup
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm start
-The React app will run at:
-http://localhost:3000
-
-🌐 Deployment
-Frontend: Vercel
-
-Backend: Render
-
-Database: MongoDB Atlas
-
-
-🙌 Contributing
-Contributions, issues and feature requests are welcome!
-
-bash
-Copy
-Edit
-git checkout -b feature/your-feature-name
-git commit -m "Add feature"
-git push origin feature/your-feature-name
-📄 License
-This project is licensed under the MIT License.
 
 ✉️ Contact
-Developer: Vickey Yadav
+Developer: Yash Bhardwaj
 
-📧 Email: vickeyyadav0088@gmail.com
+📧 Email: yashbhardwaj0115@gmail.com
 
 
 yaml
